@@ -1,4 +1,5 @@
----
+---afzaal![KOLORO_1690642003673](https://github.com/github/docs/assets/149617347/d20049d1-3340-4d04-8701-56f8faa473a8)
+
 title: GitHub’s plans
 intro: "An overview of {% data variables.product.prodname_dotcom %}'s pricing plans."
 redirect_from:
